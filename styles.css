@@ -1,0 +1,38 @@
+header {
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
+nav{
+  display: inline;
+  margin-right: 20px;
+  color:#333;
+}
+.main-content{
+  background-color:#b2beb5 ;
+  padding: 20px;
+}
+.puppies{
+  max-width: 700px;
+  height: auto;
+}
+.contact-form{
+  background-color: lavender;
+}
+.contact-image{
+    width: auto;
+    height: 500px;
+}
+footer{
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+.about-form{
+background-color: #29bdc1;
+}
+.about-image{
+  width: auto;
+  height: 400px;
+}
